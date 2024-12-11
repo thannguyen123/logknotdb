@@ -1,3 +1,4 @@
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
 mysqldump: Error: 'Access denied; you need (at least one of) the PROCESS privilege(s) for this operation' when trying to dump tablespaces
 -- MySQL dump 10.13  Distrib 8.0.36, for Linux (x86_64)
 --
@@ -773,4 +774,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2024-12-11 18:58:00
+-- Dump completed on 2024-12-11 18:59:09
