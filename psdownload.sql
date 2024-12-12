@@ -18,11 +18,11 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Cơ sở dữ liệu: `psdownload_db`
+-- Cơ sở dữ liệu: `psdownload`
 --
 
-CREATE DATABASE IF NOT EXISTS psdownload_db;
-USE psdownload_db;
+CREATE DATABASE IF NOT EXISTS psdownload;
+USE psdownload;
 
 --
 -- Cấu trúc bảng cho bảng `activities`
